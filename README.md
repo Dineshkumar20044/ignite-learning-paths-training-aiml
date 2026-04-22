@@ -10,7 +10,7 @@ The content of this repository is available for you so you can reproduce any dem
 
 ## Do the Demos
 
-If you are here to reproduce a demo in the comfort of your home/office, go in in the section [Sessions](#sessions). In each session you will find deployment instructions, to create the environment you need, and a tutorial to do the demo step by step.
+If you are here to reproduce a demo in the comfort of your home/office, go in in the section [Sessions](#sessions). In each session you will find deployment instructions, to create the environment you need, and a tutorial to do the demo step by step...
 
 ## Presenting the content
 
